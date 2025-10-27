@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "5L2BA7F28K.com.dm.7element",
+	"paths": [ "/templates/*" ]
+      }
+    ]
+  }
+}
